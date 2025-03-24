@@ -1,4 +1,4 @@
-I am a Full Stack Developer/Programmer working in the field since July, 2023 and use JavaScript and JS-based frameworks. My expertise includes:
+I am a Full Stack Developer/Programmer working in the field since July, 2023 and use JavaScript and JS-based frameworks.
 
 **Tech Stack:** 
 - **Frontend Development**: React.JS, Next.JS, React Native
