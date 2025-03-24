@@ -1,6 +1,7 @@
 I am a Full Stack Developer/Programmer working in the field since July, 2023 and use JavaScript and JS-based frameworks.
 
-**Tech Stack:** 
+## 🛠️Tech Stack
+
 - **Frontend Development**: React.JS, Next.JS, React Native
 - **Backend Development**: Node.JS/Express.JS
 - **Databases**: PostgreSQL, Sequelize
