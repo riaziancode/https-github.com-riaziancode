@@ -11,7 +11,7 @@ I am a Full Stack Developer/Programmer working in the field since July, 2023 and
 - **Description**: Developed two real-time projects currently live and deployed on AWS for a currency sale and purchase business.
 - **Technologies Used**: React.JS/Next.JS, Node.JS, PostgreSQL, AWS
 
-- ### Case Flow Management System:
+### Case Flow Management System:
 - **Description:** Developed case flow management system for a government office.
 - **Technologies Used**: Next.JS, Node.JS, PostgreSQL-Sequelize, self-hosted
 - 
